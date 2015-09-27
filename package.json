@@ -1,0 +1,34 @@
+{
+  "name": "boing",
+  "version": "1.0.0",
+  "description": "The minecraft pinger which utilizes bots.",
+  "main": "lib/index.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "minecraft-protocol": "^0.14.0",
+    "mineflayer": "^1.4.0",
+    "request": "^2.63.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jdtzmn/boing.git"
+  },
+  "keywords": [
+    "minecraft",
+    "ping",
+    "bot",
+    "mc",
+    "boing",
+    "query"
+  ],
+  "author": "jdtzmn <jdtzmn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdtzmn/boing/issues"
+  },
+  "homepage": "https://github.com/jdtzmn/boing#readme"
+}
