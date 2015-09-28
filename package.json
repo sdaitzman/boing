@@ -1,6 +1,6 @@
 {
   "name": "boing",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "The minecraft pinger which utilizes bots.",
   "main": "lib/index.js",
   "dependencies": {
